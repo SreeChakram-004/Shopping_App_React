@@ -1,2 +1,2 @@
 # Shopping_App_React
-Created with CodeSandbox
+https://csb-4y1sm.netlify.app/
